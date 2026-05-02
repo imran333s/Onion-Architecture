@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\siddi\\source\\repos\\OnionDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63B689A4-B1DF-4936-B003-6602CDC2BDAD}|OnionDemo.API\\OnionDemo.API.csproj|c:\\users\\siddi\\source\\repos\\oniondemo\\oniondemo.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{63B689A4-B1DF-4936-B003-6602CDC2BDAD}|OnionDemo.API\\OnionDemo.API.csproj|solutionrelative:oniondemo.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B689A4-B1DF-4936-B003-6602CDC2BDAD}|OnionDemo.API\\OnionDemo.API.csproj|c:\\users\\siddi\\source\\repos\\oniondemo\\oniondemo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63B689A4-B1DF-4936-B003-6602CDC2BDAD}|OnionDemo.API\\OnionDemo.API.csproj|solutionrelative:oniondemo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\siddi\\source\\repos\\OnionDemo\\Infrastructure\\Migrations\\20260502140800_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Migrations\\20260502140800_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D641CCBB-3448-4E7F-B738-595B31D7D8CE}|Infrastructure\\Infrastructure.csproj|c:\\users\\siddi\\source\\repos\\oniondemo\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D641CCBB-3448-4E7F-B738-595B31D7D8CE}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D641CCBB-3448-4E7F-B738-595B31D7D8CE}|Infrastructure\\Infrastructure.csproj|c:\\users\\siddi\\source\\repos\\oniondemo\\infrastructure\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D641CCBB-3448-4E7F-B738-595B31D7D8CE}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A706A7D-55C1-4497-9950-D865F82AE7D3}|Application\\Application.csproj|c:\\users\\siddi\\source\\repos\\oniondemo\\application\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A706A7D-55C1-4497-9950-D865F82AE7D3}|Application\\Application.csproj|solutionrelative:application\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D899882-2E3D-496B-9D0D-700FBB2C3E16}|Domain\\Domain.csproj|c:\\users\\siddi\\source\\repos\\oniondemo\\domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D899882-2E3D-496B-9D0D-700FBB2C3E16}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D899882-2E3D-496B-9D0D-700FBB2C3E16}|Domain\\Domain.csproj|c:\\users\\siddi\\source\\repos\\oniondemo\\domain\\valueobjects\\adress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D899882-2E3D-496B-9D0D-700FBB2C3E16}|Domain\\Domain.csproj|solutionrelative:domain\\valueobjects\\adress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D899882-2E3D-496B-9D0D-700FBB2C3E16}|Domain\\Domain.csproj|c:\\users\\siddi\\source\\repos\\oniondemo\\domain\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D899882-2E3D-496B-9D0D-700FBB2C3E16}|Domain\\Domain.csproj|solutionrelative:domain\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B689A4-B1DF-4936-B003-6602CDC2BDAD}|OnionDemo.API\\OnionDemo.API.csproj|c:\\users\\siddi\\source\\repos\\oniondemo\\oniondemo.api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63B689A4-B1DF-4936-B003-6602CDC2BDAD}|OnionDemo.API\\OnionDemo.API.csproj|solutionrelative:oniondemo.api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B689A4-B1DF-4936-B003-6602CDC2BDAD}|OnionDemo.API\\OnionDemo.API.csproj|c:\\users\\siddi\\source\\repos\\oniondemo\\oniondemo.api\\oniondemo.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{63B689A4-B1DF-4936-B003-6602CDC2BDAD}|OnionDemo.API\\OnionDemo.API.csproj|solutionrelative:oniondemo.api\\oniondemo.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A706A7D-55C1-4497-9950-D865F82AE7D3}|Application\\Application.csproj|c:\\users\\siddi\\source\\repos\\oniondemo\\application\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A706A7D-55C1-4497-9950-D865F82AE7D3}|Application\\Application.csproj|solutionrelative:application\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A706A7D-55C1-4497-9950-D865F82AE7D3}|Application\\Application.csproj|c:\\users\\siddi\\source\\repos\\oniondemo\\application\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A706A7D-55C1-4497-9950-D865F82AE7D3}|Application\\Application.csproj|solutionrelative:application\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A706A7D-55C1-4497-9950-D865F82AE7D3}|Application\\Application.csproj|c:\\users\\siddi\\source\\repos\\oniondemo\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7A706A7D-55C1-4497-9950-D865F82AE7D3}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D641CCBB-3448-4E7F-B738-595B31D7D8CE}|Infrastructure\\Infrastructure.csproj|c:\\users\\siddi\\source\\repos\\oniondemo\\infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D641CCBB-3448-4E7F-B738-595B31D7D8CE}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A706A7D-55C1-4497-9950-D865F82AE7D3}|Application\\Application.csproj|c:\\users\\siddi\\source\\repos\\oniondemo\\application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A706A7D-55C1-4497-9950-D865F82AE7D3}|Application\\Application.csproj|solutionrelative:application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D899882-2E3D-496B-9D0D-700FBB2C3E16}|Domain\\Domain.csproj|c:\\users\\siddi\\source\\repos\\oniondemo\\domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D899882-2E3D-496B-9D0D-700FBB2C3E16}|Domain\\Domain.csproj|solutionrelative:domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20260502140800_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\siddi\\source\\repos\\OnionDemo\\Infrastructure\\Migrations\\20260502140800_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20260502140800_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\siddi\\source\\repos\\OnionDemo\\Infrastructure\\Migrations\\20260502140800_InitialCreate.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20260502140800_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T14:08:00.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Adress.cs",
+              "DocumentMoniker": "C:\\Users\\siddi\\source\\repos\\OnionDemo\\Domain\\ValueObjects\\Adress.cs",
+              "RelativeDocumentMoniker": "Domain\\ValueObjects\\Adress.cs",
+              "ToolTip": "C:\\Users\\siddi\\source\\repos\\OnionDemo\\Domain\\ValueObjects\\Adress.cs",
+              "RelativeToolTip": "Domain\\ValueObjects\\Adress.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T13:59:32.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\siddi\\source\\repos\\OnionDemo\\OnionDemo.API\\appsettings.json",
+              "RelativeDocumentMoniker": "OnionDemo.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\siddi\\source\\repos\\OnionDemo\\OnionDemo.API\\appsettings.json",
+              "RelativeToolTip": "OnionDemo.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-02T13:52:50.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\siddi\\source\\repos\\OnionDemo\\OnionDemo.API\\Program.cs",
+              "RelativeDocumentMoniker": "OnionDemo.API\\Program.cs",
+              "ToolTip": "C:\\Users\\siddi\\source\\repos\\OnionDemo\\OnionDemo.API\\Program.cs",
+              "RelativeToolTip": "OnionDemo.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T13:40:17.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\siddi\\source\\repos\\OnionDemo\\OnionDemo.API\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "OnionDemo.API\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\siddi\\source\\repos\\OnionDemo\\OnionDemo.API\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "OnionDemo.API\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T13:39:57.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OnionDemo.API",
+              "DocumentMoniker": "C:\\Users\\siddi\\source\\repos\\OnionDemo\\OnionDemo.API\\OnionDemo.API.csproj",
+              "RelativeDocumentMoniker": "OnionDemo.API\\OnionDemo.API.csproj",
+              "ToolTip": "C:\\Users\\siddi\\source\\repos\\OnionDemo\\OnionDemo.API\\OnionDemo.API.csproj",
+              "RelativeToolTip": "OnionDemo.API\\OnionDemo.API.csproj",
+              "ViewState": "AgIAABEAAACg4lj1H6AbwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-02T13:39:02.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\siddi\\source\\repos\\OnionDemo\\Infrastructure\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\siddi\\source\\repos\\OnionDemo\\Infrastructure\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\StudentRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwBMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T13:31:43.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\siddi\\source\\repos\\OnionDemo\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\siddi\\source\\repos\\OnionDemo\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T13:30:48.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\siddi\\source\\repos\\OnionDemo\\Application\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\siddi\\source\\repos\\OnionDemo\\Application\\Services\\StudentService.cs",
+              "RelativeToolTip": "Application\\Services\\StudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T13:30:20.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\siddi\\source\\repos\\OnionDemo\\Application\\DTOs\\StudentDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\StudentDTO.cs",
+              "ToolTip": "C:\\Users\\siddi\\source\\repos\\OnionDemo\\Application\\DTOs\\StudentDTO.cs",
+              "RelativeToolTip": "Application\\DTOs\\StudentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T13:29:44.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\siddi\\source\\repos\\OnionDemo\\Application\\Interfaces\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\siddi\\source\\repos\\OnionDemo\\Application\\Interfaces\\IStudentRepository.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T13:29:21.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\Users\\siddi\\source\\repos\\OnionDemo\\Domain\\Enums\\Gender.cs",
+              "RelativeDocumentMoniker": "Domain\\Enums\\Gender.cs",
+              "ToolTip": "C:\\Users\\siddi\\source\\repos\\OnionDemo\\Domain\\Enums\\Gender.cs",
+              "RelativeToolTip": "Domain\\Enums\\Gender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T13:28:06.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\siddi\\source\\repos\\OnionDemo\\Domain\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\siddi\\source\\repos\\OnionDemo\\Domain\\Entities\\Student.cs",
+              "RelativeToolTip": "Domain\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T13:27:33.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Application",
+              "DocumentMoniker": "C:\\Users\\siddi\\source\\repos\\OnionDemo\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "C:\\Users\\siddi\\source\\repos\\OnionDemo\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-02T13:26:40.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\siddi\\source\\repos\\OnionDemo\\Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\siddi\\source\\repos\\OnionDemo\\Infrastructure\\Class1.cs",
+              "RelativeToolTip": "Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T13:18:15.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\siddi\\source\\repos\\OnionDemo\\Application\\Class1.cs",
+              "RelativeDocumentMoniker": "Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\siddi\\source\\repos\\OnionDemo\\Application\\Class1.cs",
+              "RelativeToolTip": "Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T13:17:38.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\siddi\\source\\repos\\OnionDemo\\Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\siddi\\source\\repos\\OnionDemo\\Domain\\Class1.cs",
+              "RelativeToolTip": "Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T13:17:01.712Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
